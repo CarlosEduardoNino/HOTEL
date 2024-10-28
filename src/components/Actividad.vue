@@ -9,7 +9,7 @@
             class="card-img-top"
             :style="{ width: activity.imageWidth, height: activity.imageHeight }"
           />
-          <div class="cardwbody text-center">
+          <div class="cardw-body text-center">
             <h5 :class="['cardw-title', `title-${index + 1}`]">{{ activity.title }}</h5>
             <p class="cardw-text">{{ activity.type }}</p>
             <p :class="['cardw-description', `description-${index + 1}`]">{{ activity.description }}</p>
@@ -273,10 +273,3 @@ body {
   
 }
 </style>
-    <div>
-        
-       <h3>Actividad
-                    
-       </h3> 
-    </div>
-</template>

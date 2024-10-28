@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <div class="hotel-rooms-container">
     <div class="sidebar">
       <h1 class="main-title">HOTEL ROOMS</h1>
@@ -367,3 +368,9 @@ body {
   
 }
 </style>
+=======
+  <div>
+      <h3>Habitaciones</h3>
+  </div>
+</template>
+>>>>>>> 1964e4efa4d951af11000f55cfb2e99922ad4714

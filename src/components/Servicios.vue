@@ -1,5 +1,6 @@
 <template>
     <div>
+<<<<<<< HEAD
         <div class="flex flex-wrap justify-center">
    <div class="card">
     <div class="card-header">
@@ -266,3 +267,8 @@
       line-height: 1.5;
     }
 </style>
+=======
+        <h3>Servicios</h3>
+    </div>
+</template>
+>>>>>>> 1964e4efa4d951af11000f55cfb2e99922ad4714
